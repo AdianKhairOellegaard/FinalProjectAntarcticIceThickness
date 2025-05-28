@@ -9,16 +9,17 @@ This Github is for the Applied Machine Learning 2025- Antarctic ice sheet ice th
 (Note: The datafile is called bedmap_train.parquet is 6.9 GB which is why I have not uploaded it to github yet. The same for the datafiles that bedmap_train.parquet is generated from.
 ## Getting Started
 
-Setting up:
+If you want to to hook up the repository direclty to a folder:
 In folder for final project:
-git remote add origin https://github.com/AdianKhairOellegaard/FinalProjectAntarcticIceThickness.git
+
+git clone https://github.com/AdianKhairOellegaard/FinalProjectAntarcticIceThickness.git
 
 git pull
 
 Adding/updating files:
 
 git add <filename>
-git commit
+git commit -m "Your commit message"
 git push
 
 (Ask ChatGPT if you get stuck)
