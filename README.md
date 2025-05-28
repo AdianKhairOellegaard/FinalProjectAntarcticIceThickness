@@ -6,7 +6,7 @@ This is the github for Adian Khair Oellegaard, Jens Gorm Rytter, Markus Bligaard
 ## Description
 This Github is for the Applied Machine Learning 2025- Antarctic ice sheet ice thickness project. A parquet datafile of different icesheet thickness measurements along with other features is made in the create_bedmap_dataset.ipynb file. Our ML models should be compared to the glaciological model BedMachine v3.7 which's thickness predictions are given in the datafile in the column: 'ith_bm'.
 
-(Note: The datafile is called bedmap_train.parquet is 6.9 GB which is why I have not uploaded it to github yet. The same for the datafiles that bedmap_train.parquet is generated from.
+(Note: The datafile is called bedmap_train.parquet is 6.9 GB which is why I have not uploaded it to github. We will only be sharing code in Github
 ## Getting Started
 
 ### If you want to to hook up the repository directly to a folder:
