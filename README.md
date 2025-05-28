@@ -24,6 +24,8 @@ git push
 
 (Ask ChatGPT (or someone in the group) if you get stuck)
 
+
+Alternatively you can just download and add files to the repositry through a browser with the link: https://github.com/AdianKhairOellegaard/FinalProjectAntarcticIceThickness.git
 ### Dependencies
 
 * Prerequisites for running the code should be written in requirements.txt
