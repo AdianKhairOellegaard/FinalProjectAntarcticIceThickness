@@ -22,7 +22,7 @@ git add <filename>
 git commit -m "Your commit message"
 git push
 
-(Ask ChatGPT if you get stuck)
+(Ask ChatGPT (or someone in the group) if you get stuck)
 
 ### Dependencies
 
